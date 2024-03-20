@@ -1,0 +1,15 @@
+{
+    "name": "joaot/htdocs",
+    "autoload": {
+        "psr-4": {
+            "Joaot\\Htdocs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joao-trajano",
+            "email": "joao.trajanosouza@gmail.com"
+        }
+    ],
+    "require": {}
+}
